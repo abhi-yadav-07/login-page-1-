@@ -1,0 +1,57 @@
+
+.container{
+padding: 0px;
+margin: 0px;
+height: 70vh;
+width: 20vw;
+border:none;
+justify-self: center;
+position: relative;
+top: 8vw;
+background-color: rgb(34, 36, 34);
+border-radius: 8px;
+box-shadow: 2px  3px 5px 500px rgb(27, 27, 25);
+}
+
+input{
+    margin:0px;
+    text-align: center;
+    position: relative;
+    
+background-color: transparent;
+border: transparent;
+cursor: pointer;
+
+
+}
+button{
+    position: relative;
+    top: 2vw;
+   left: 2vw;
+   background-color: rgb(34, 36, 34);
+   padding: 2px 40px;
+   cursor: pointer;
+}
+a {
+    position: relative;
+    top: 6vw;
+    font-size: 15px;
+    right: 8vw;
+    cursor: pointer;
+}
+span{
+     position: relative;
+    top: 7vw;
+    left: 4vw;
+    font-size: 15px;
+
+   
+}
+h1{
+    position: relative;
+    left: 5vw;
+    top: 3vw;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+   
